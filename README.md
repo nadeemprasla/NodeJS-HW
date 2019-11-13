@@ -11,8 +11,10 @@ Requirements to run:
 
 After getting api keys input in .env as instructed below.
 Create .env file in root folder with the following text and replace <...> with your own key
-SPOTIFY_ID= <...> \n
-SPOTIFY_SECRET= <...> \n
+SPOTIFY_ID= <...>
+
+SPOTIFY_SECRET= <...>
+
 OMDB_APIKEY= <...>
 
 use "npm i" in the console to install all dependencies.
